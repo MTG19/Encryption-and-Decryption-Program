@@ -1,5 +1,3 @@
----
-
 # 🔐 **Encryption and Decryption Program** 🔐
 
 ## 🚀 Overview
